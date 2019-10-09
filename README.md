@@ -14,4 +14,5 @@
 
 ps: 若使用Python版本,建议使用Jupyter Notebook进行阅读, 若存在错误, 请提交Issues, 谢谢！
 
+**悄咪咪推荐个人Blog:** [HB's Blog,欢迎观临~](http://www.huangbin.fun)
 
